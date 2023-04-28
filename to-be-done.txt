@@ -1,0 +1,10 @@
+-- in the viewuserorders page to get the details of the users we can use fetch api to fetch data from the database
+-- look at customers table it is not responsive consider having the add customer elsewhere than there for all tables
+-- dan needs to update the view more on the roomorders page
+-- have a unimform naming system for variables, most probably should be be_to_done or MyVariables
+-- remove all unnecessary comments and code
+/// (wachana na hii) have a recommendations page to recommend the type of food that the person is 
+more likely to order using their database data and time
+-- dont forget to include cookies that will be used to save the cart items and users when
+-- they login for a short time so that their details are not lost when they are paying
+-- have an image for the title of each page
